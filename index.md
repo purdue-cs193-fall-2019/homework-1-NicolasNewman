@@ -3,6 +3,8 @@
 - It's not when I want to eat
 - This class is commited to a push to git with the system
   - I'm so punny...
+  
+[Convenient link to site...](https://purdue-cs193-fall-2019.github.io/homework-1-NicolasNewman/)
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
